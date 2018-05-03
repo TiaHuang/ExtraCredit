@@ -1,6 +1,7 @@
+//Week 8 extra credit
+
 int sensorValue = 0;  // variable to store the value coming from the sensor
 int sensorPin = A0;    // select the input pin for the potentiometer
-
 
 // the setup function runs once when you press reset or power the board
 void setup() {
