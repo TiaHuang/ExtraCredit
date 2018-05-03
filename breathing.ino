@@ -1,4 +1,5 @@
-//Week 8 extra credit
+//Week 8 Challenge
+
 int led = 5;           // the PWM pin the LED is attached to
 int brightness = 0;    // how bright the LED is
 int fadeAmount = 3;    // how many points to fade the LED by
