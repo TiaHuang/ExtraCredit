@@ -1,4 +1,4 @@
-//Week 8 extra credit
+//Week 8 Challenge
 
 int sensorValue = 0;  // variable to store the value coming from the sensor
 int sensorPin = A0;    // select the input pin for the potentiometer
